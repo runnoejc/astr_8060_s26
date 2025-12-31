@@ -46,7 +46,7 @@ Vanderbilt University <br>
 
 ## Homework
 * [Homework 1](./hw/HW1.pdf) (due 01/20/2026 @ 09:30am CST)
-* <!-- Upcoming activities are commented out
+<!-- Upcoming activities are commented out
 * [Homework 2](./hw/HW2.pdf) (due 02/03/2026 @ 09:30am CST)
 * [Homework 3](./hw/HW3.pdf) (due 02/17/2026 @ 09:30am CST)
 * [Homework 4](./hw/HW4.pdf) (due 03/03/2026 @ 09:30am CST)
