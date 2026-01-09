@@ -10,15 +10,15 @@ Vanderbilt University <br>
 [Massey (1997)](./docs/massey97_guide_to_ccd_reductions_iraf.pdf) <br>
 [NASA ADS](https://ui.adsabs.harvard.edu/) <br>
 [SVO Filter Service](http://svo2.cab.inta-csic.es/theory/fps/)<br>
-
-<!-- Upcoming resources are commented out
-### Week 2
 [Equatorial to Galactic coordinate transformation](./docs/leinert98_coordinates.pdf) <br>
+
+### Week 2
 [Observation planning tool](http://catserver.ing.iac.es/staralt/index.php) <br>
 [ThorSky](https://github.com/jrthorstensen/thorsky) <br>
-[Git](https://git-scm.com/downloads/) <br>
 
+<!-- Upcoming resources are commented out
 ### Week 3
+[Git](https://git-scm.com/downloads/) <br>
 
 ### Week 4
 
